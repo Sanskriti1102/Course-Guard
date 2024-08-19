@@ -1,6 +1,7 @@
 # Welcome to Course Guard
 
-### Project Admin: (Sanskriti Kadam) [https://github.com/Sanskriti1102]
+### Project Admin: [Sanskriti Kadam](https://github.com/Sanskriti1102)
+
 
 **Overview**
 
