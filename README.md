@@ -5,10 +5,7 @@
 
 **Overview**
 
-Thiswebsiteallowsuserstoadd,buy,sell,andpurchasecourses,interactwithanAIchatbot
-forguidance,manageuserprofiles,andviewaleaderboardthatranksusersbasedontheir
-coursecompletionandachievements.Theapplicationisbuiltusingamoderntechstack:
-**Next.js** forfrontend, **Node.js** forbackend,and **MongoDB** fordatastorage.
+This website allows users to add, buy, sell, and purchase courses, interact with an AI chatbot for guidance, manage user profiles, and view a leaderboard that ranks users based on their course completion and achievements. The application is built using a modern tech stack: Next.js for frontend, Node.js for backend, and MongoDB for data storage.
 
 # TechStack
 
